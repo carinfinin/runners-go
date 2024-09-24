@@ -9,4 +9,5 @@ func main() {
 	pg05.Hostname = "localhost"
 	fmt.Println(pg05.Port)
 	fmt.Println(pg05.Hostname)
+	fmt.Println(pg05.Hostname)
 }
